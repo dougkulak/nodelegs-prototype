@@ -1,0 +1,14 @@
+[
+    {
+        "_id": "51b8cd2cd7f8b3360f000001",
+        "name": "Doug Kulak",
+        "email": "doug.kulak@rhythmagency.com",
+        "posts": ["51b8cd5351d6053e0f000001"]
+    },
+    {
+        "_id": "51b8cd2cd7f8b3360f000002",
+        "name": "Michael Lawrence",
+        "email": "michael.lawrence@rhythmagency.com",
+        "posts": ["51b8cd5351d6053e0f000002"]
+    }
+]

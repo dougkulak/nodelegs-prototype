@@ -1,0 +1,23 @@
+{
+  "name": "nodelegs",
+  "version": "0.0.1",
+  "description": "Robotlegs-inspired Micro-Architecture Written in Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git@github.com:dougkulak/nodelegs-prototype.git",
+  "author": "Doug Kulak",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3.2.6",
+    "hbs": "~2.3.0",
+    "medic-injector": "~0.2.4",
+    "mongoose": "~3.6.11",
+    "nconf": "~0.6.7",
+    "nodemailer": "~0.4.4",
+    "underscore": "~1.4.4",
+    "async": "~0.2.9",
+    "socket.io": "~0.9.16"
+  }
+}

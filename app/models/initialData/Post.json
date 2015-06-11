@@ -1,0 +1,14 @@
+[
+    {
+        "_id": "51b8cd5351d6053e0f000001",
+        "title": "This is post #1",
+        "body": "This is body #1",
+        "author": "51b8cd2cd7f8b3360f000001"
+    },
+    {
+        "_id": "51b8cd5351d6053e0f000002",
+        "title": "This is post #2",
+        "body": "This is body #2",
+        "author": "51b8cd2cd7f8b3360f000002"
+    }
+]

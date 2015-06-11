@@ -1,0 +1,21 @@
+// Global Foundation Settings
+@import "settings";
+@import "foundation";
+@import "normalize";
+
+// App Settings
+
+
+// Global Styles
+
+html, body {
+  height: 100%;
+}
+
+body {
+  overflow-y: scroll;
+}
+
+table {
+  width: 100%;
+}

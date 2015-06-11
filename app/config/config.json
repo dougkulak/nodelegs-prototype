@@ -1,0 +1,22 @@
+{
+	"PORT": 3003,
+	"NODE_ENV": "development",
+	"DEBUG": "*",
+    "COOKIE_SECRET": "1ypD2226L19ccjTM2in3u910E484t28e19390da",
+	"HTTP_AUTH_ENABLED": false,
+	"HTTP_AUTH_USERNAME": "",
+	"HTTP_AUTH_PASSWORD": "",
+	"NODE_DB_HOST": "localhost",
+	"NODE_DB_PORT": "",
+	"NODE_DB_USERNAME": "",
+	"NODE_DB_PASSWORD": "",
+	"NODE_DB_DATABASE": "database_name",
+	"SMTP_USER": "user@domain.com",
+	"SMTP_PASS": "XXXXXX",
+	"SMTP_SERVICE": "Gmail",
+	"EXCEPTION_MAILER_ENABLED": false,
+	"EXCEPTION_MAILER_FROM": "NodeJS Application <no-reply@dougkulak.com>",
+	"EXCEPTION_MAILER_TO": "doug.kulak@gmail.com",
+	"EXCEPTION_MAILER_SUBJECT": "NodeJS Application Error",
+    "APP_TITLE": "Application Title"
+}
